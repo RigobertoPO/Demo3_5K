@@ -1,0 +1,52 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: small;
+    background-image: url(../img/fondo.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+h1{
+    color:brown;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h2{
+    color: cornflowerblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 40px;
+}
+h3{
+    color: rgb(25, 75, 131);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h4{
+    color: rgb(50, 122, 255);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+ul{
+    color: white;
+}
+div{
+    background-color: rgb(29, 29, 161);
+    width: 400px;
+    border-radius: 15px;
+    padding-left: 30px;
+    padding-top: 20px;
+    padding-bottom: 15px;
+}
+
+a{
+    color: white;
+    background-color: cadetblue;
+    padding: 10px;
+    border-radius: 20px;
+    text-decoration: none;
+}
+a:hover{
+    background-color: brown;
+}
+div h3{ 
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
